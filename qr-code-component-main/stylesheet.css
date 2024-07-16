@@ -1,0 +1,34 @@
+body {
+    align-items: center;
+    background-color: hsl(212, 45%, 89%);
+    max-width: 500px;
+    margin: auto;
+    padding-top: 10%;
+    padding-left: 30%
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    border-radius: 5px;
+}
+#heading {
+    text-align: center;
+    font-size: 15px;
+    font-family: "Outfit Regular";
+    font-weight: 700;
+}
+p{
+    text-align: center;
+    font-size: 15px;
+    font-family: "outfit thin";
+    font-weight: 400;
+}
+.qrframe {
+    background-color: hsl(0, 0%, 100%);
+    width: 70%;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 10px;
+}
